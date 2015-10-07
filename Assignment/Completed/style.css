@@ -1,0 +1,47 @@
+body{
+	padding-top: 20px;
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-bottom: 40px;
+	background-color: #ec202e;
+	font-family: futura;
+}
+
+hr{
+	opacity: 0.8;
+	color: white;
+	border-top: px 1solid white;
+    border-bottom: 1px solid white;
+}
+
+h1{ font-size: 40px;
+	color: white;
+}
+
+h3{
+	color: white;
+}
+
+p{
+	line-height: 24PX;
+	color: white;
+}
+
+h4{ font-size: 20px;
+	color: white;
+}
+
+ul{
+	line-height: 30PX;
+	color: white;
+}
+
+em{
+	colour: white;
+	opacity: 1;
+}
+
+a{
+	color: #f5f5f5;
+	font-size: 10pt
+}
